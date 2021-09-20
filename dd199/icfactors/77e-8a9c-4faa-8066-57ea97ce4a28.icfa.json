@@ -6,8 +6,8 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 2.1992147294829325e-06,
-        "fit": "Linear",
+        "error": 0.002612255430265094,
+        "fit": "Average",
         "references": [
             {
                 "exclude": "ok",
@@ -27,7 +27,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 295.5,
-        "value": 0.9316307100870099
+        "value": 0.9326576415599191
     },
     "H1": {
         "error": 0.0,
